@@ -1,0 +1,32 @@
+#mainAbout{
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 20px;
+}
+
+.articleAbout{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    margin-top: 3%;
+}
+
+#txtAbout{
+    text-align: justify;
+    margin-left: 30px;
+    line-height: 1.6;
+   padding-right: 15%;
+  font-size: 1em;
+}
+
+#friendsphoto{
+    width: 50%;
+}
+
+#photoAbout{
+    width: 100%;
+    margin-right: 15%;
+}

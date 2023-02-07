@@ -1,0 +1,31 @@
+#mainPhoto{
+    display: flex;
+    flex-direction: row;
+}
+
+#divFacts{
+    padding-top: 3%;
+    line-height: 2;
+    width: 50%;
+}
+.li{
+    font-size: 1.3em;
+}
+
+#divImg{
+    width: 50%;
+    margin-left: 10%;
+}
+
+.imgFacts{
+    width: 70%;
+    display: block;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    
+}
+
+#tituloFacts{
+    text-align: center;
+    font-size: 1.5em;
+}
